@@ -121,7 +121,7 @@ class Result extends StatelessWidget {
               ),
             ),
             Text(
-              reamur.toStringAsFixed(2),
+              reamur.toStringAsFixed(1),
               style: const TextStyle(
                 fontSize: 40,
               ),
